@@ -2,7 +2,7 @@
 
 ## ES модель
 
-![ES модель](https://github.com/foxy-eyed/mcf-project/blob/hw-1/homework-1/ES_model.jpg)
+![ES модель](https://github.com/foxy-eyed/mcf-project/blob/hw-1/homework-1/img/ES_model.jpg)
 
 [Открыть в Miro](https://miro.com/app/board/uXjVNNeyOQc=/?share_link_id=321736457182)
 
@@ -38,7 +38,7 @@
 
 ## Data model
 
-![Data model](https://github.com/foxy-eyed/mcf-project/blob/hw-1/homework-1/data_model.jpg)
+![Data model](https://github.com/foxy-eyed/mcf-project/blob/hw-1/homework-1/img/data_model.jpg)
 
 [Открыть в Miro](https://miro.com/app/board/uXjVNMS8xzo=/?share_link_id=43973897252)
 
