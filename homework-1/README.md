@@ -9,8 +9,7 @@
 
 ## ES модель
 
-![ES модель](https://github.com/foxy-eyed/mcf-project/blob/hw-1/homework-1/img/ES_model.jpg)
-
+![ES модель](https://github.com/foxy-eyed/mcf-project/blob/main/homework-1/img/ES_model.jpg)
 [Открыть в Miro](https://miro.com/app/board/uXjVNNeyOQc=/?share_link_id=321736457182)
 
 Выделенные контексты:
@@ -45,7 +44,7 @@
 
 ## Модель данных
 
-![Data model](https://github.com/foxy-eyed/mcf-project/blob/hw-1/homework-1/img/data_model.jpg)
+![Data model](https://github.com/foxy-eyed/mcf-project/blob/main/homework-1/img/data_model.jpg)
 
 [Открыть в Miro](https://miro.com/app/board/uXjVNMS8xzo=/?share_link_id=43973897252)
 
@@ -58,7 +57,7 @@
 
 ## Общая модель коммуникаций
 
-![Communication model](https://github.com/foxy-eyed/mcf-project/blob/hw-1/homework-1/img/system_schema.jpg)
+![Communication model](https://github.com/foxy-eyed/mcf-project/blob/main/homework-1/img/system_schema.jpg)
 
 [Открыть в Miro](https://miro.com/app/board/uXjVNLnCn5E=/?share_link_id=938097208728)
 
