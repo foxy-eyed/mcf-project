@@ -2,6 +2,8 @@
 
 Содержание
 - [Business domain](#business-domain)
+  - [Поддомены](#поддомены)
+  - [Core Domain Chart](#core-domain-chart)
 
 ## Business domain
 **Цель** компании Make Cats Free — повышение продуктивности котов-тестировщиков за счет делегирования рутинных задач
@@ -29,3 +31,7 @@
 | Поддержание мотивации менеджеров      | нет                       | низкая                           | низкая       |
 
 ### Core Domain Chart
+
+![Core domain chart](https://github.com/foxy-eyed/mcf-project/blob/hw-2/homework-2/img/core_domain_chart.jpg)
+
+[Открыть в Miro](https://miro.com/app/board/uXjVNJgr-44=/?share_link_id=423268842380)
