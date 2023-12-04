@@ -38,7 +38,7 @@
 
 ### Core Domain Chart
 
-![Core domain chart](https://github.com/foxy-eyed/mcf-project/blob/hw-2/homework-2/img/core_domain_chart.jpg)
+![Core domain chart](https://github.com/foxy-eyed/mcf-project/blob/main/homework-2/img/core_domain_chart.jpg)
 
 [Открыть в Miro](https://miro.com/app/board/uXjVNJgr-44=/?moveToWidget=3458764571280237351&cot=14)
 
@@ -53,7 +53,7 @@
 | Оснащение воркеров                 | Generic                      | - Комплектация заказов<br>- Работа с поставщиками печенья                                                  |
 | Поддержание мотивации менеджеров   | Generic                      | Тотализатор                                                                                                |
 
-![Bounded contexts scheme](https://github.com/foxy-eyed/mcf-project/blob/hw-2/homework-2/img/bounded_contexts.jpg)
+![Bounded contexts scheme](https://github.com/foxy-eyed/mcf-project/blob/main/homework-2/img/bounded_contexts.jpg)
 
 [Открыть в Miro](https://miro.com/app/board/uXjVNJgr-44=/?moveToWidget=3458764571330933669&cot=14)
 
@@ -71,7 +71,7 @@
 
 ### Переделанная ES-модель
 
-![ES model](https://github.com/foxy-eyed/mcf-project/blob/hw-2/homework-2/img/es_diagram.jpg)
+![ES model](https://github.com/foxy-eyed/mcf-project/blob/main/homework-2/img/es_diagram.jpg)
 
 [Открыть в Miro](https://miro.com/app/board/uXjVNJgr-44=/?moveToWidget=3458764571431659496&cot=14)
 
@@ -143,7 +143,7 @@
 
 ## Структура и коммуникации
 
-![System structure](https://github.com/foxy-eyed/mcf-project/blob/hw-2/homework-2/img/structure.jpg)
+![System structure](https://github.com/foxy-eyed/mcf-project/blob/main/homework-2/img/structure.jpg)
 
 Разделила контексты на **5 сервисов в соответствии с выделенными поддоменами** (на схеме — жёлтые блоки).
 Единственное исключение — поддомен «Контроль качества исполнения задач» я внесла в тот же сервис,
