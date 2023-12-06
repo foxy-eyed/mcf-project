@@ -31,3 +31,10 @@
    
    Их консерёрны в ТЗ явно не указаны, но компания планирует собирать обратную связь через контроль качества,
    значит, в будущем они могут иметь влияние на систему.
+
+### Power-Interest Matrix
+
+![Power-Interest Matrix](https://github.com/foxy-eyed/mcf-project/blob/hw-3/homework-3/img/power_interest_matrix.jpg)
+
+### Консёрны стейкхолдеров
+
