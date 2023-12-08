@@ -42,7 +42,7 @@
 
 ### Power-Interest Matrix
 
-![Power-Interest Matrix](https://github.com/foxy-eyed/mcf-project/blob/hw-3/homework-3/img/power_interest_matrix.jpg)
+![Power-Interest Matrix](https://github.com/foxy-eyed/mcf-project/blob/main/homework-3/img/power_interest_matrix.jpg)
 
 ### Консёрны стейкхолдеров по группам
 
@@ -61,7 +61,7 @@
 
 Структура системы, полученная в предыдущем уроке:
 
-![System structure](https://github.com/foxy-eyed/mcf-project/blob/hw-3/homework-3/img/system_structure.jpg)
+![System structure](https://github.com/foxy-eyed/mcf-project/blob/main/homework-3/img/system_structure.jpg)
 
 В таблице ниже выписала характеристики, выделенные из требований, ограничений и консёрнов стейкхолдеров,
 сгруппированные по контекстам:
@@ -110,7 +110,7 @@
 
 Итоговая структура сервисов:
 
-![Services](https://github.com/foxy-eyed/mcf-project/blob/hw-3/homework-3/img/services.jpg)
+![Services](https://github.com/foxy-eyed/mcf-project/blob/main/homework-3/img/services.jpg)
 
 ### Архитектурный стиль и БД сервисов
 
@@ -141,7 +141,7 @@
  - синие — стриминговые события,
  - пунктир означает асинхронную коммуникацию.
 
-![Communications](https://github.com/foxy-eyed/mcf-project/blob/hw-3/homework-3/img/communications.jpg)
+![Communications](https://github.com/foxy-eyed/mcf-project/blob/main/homework-3/img/communications.jpg)
 
 ## Фитнес-функции
 
