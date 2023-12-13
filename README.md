@@ -4,3 +4,4 @@
  - [ДЗ#1](./homework-1/README.md)
  - [ДЗ#2](./homework-2/README.md)
  - [ДЗ#3](./homework-3/README.md)
+ - [ДЗ#4](./homework-4/README.md)
